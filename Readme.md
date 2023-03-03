@@ -70,13 +70,15 @@ They are not really interesting. It is said that we need to setup the GDT to be 
 to jump to protected mode. We already wrote a blog about this and it is almost done
 in [ZigOS](https://github.com/gthvn1/zigos).
 
-## YaK (Yet another Kernel) vs Crash test dummies...
+## YaK (Yet another Kernel) vs CrashTOS...
 
-YaK was our first project and it has its own [Readme.md](https://github.com/gthvn1/yet-another-kernel/blob/master/yak/Readme.md) file...
-Then few weeks after starting it we found cool videos from video [Amateur Makes an OS](https://www.youtube.com/playlist?list=PLT7NbkyNWaqajsw8Xh7SP9KJwjfpP8TNX). We are trying to follow them so we create a new repo and as YaK
-it has its own [Readme.md](https://github.com/gthvn1/yet-another-kernel/blob/master/crash_test_dummy/Readme.md).
+YaK was our first project that we did in the same time with babysteps.
+Then few weeks after starting it we found cool videos done by
+[Queso Fuego](https://github.com/queso-fuego) and available on youtube:
+[Amateur Makes an OS](https://www.youtube.com/playlist?list=PLT7NbkyNWaqajsw8Xh7SP9KJwjfpP8TNX).
 
-In any cases the final goal is to be able to load and run an ELF in userspace.
+So it seems (future will tell us) that currently YaK has been superseded by
+[CrashTOS](https://github.com/gthvn1/crashtos).
 
 ## Some interesting links
 
