@@ -72,13 +72,13 @@ in [ZigOS](https://github.com/gthvn1/zigos).
 
 ## YaK (Yet another Kernel) vs CrashTOS...
 
-YaK was our first project that we did in the same time with babysteps.
+**YaK has been superseded by [CrashTOS](https://github.com/gthvn1/crashtos)**.
+ 
+YaK was our first project that we did in parallel of babysteps.
 Then few weeks after starting it we found cool videos done by
 [Queso Fuego](https://github.com/queso-fuego) and available on youtube:
 [Amateur Makes an OS](https://www.youtube.com/playlist?list=PLT7NbkyNWaqajsw8Xh7SP9KJwjfpP8TNX).
-
-So it seems (future will tell us) that currently YaK has been superseded by
-[CrashTOS](https://github.com/gthvn1/crashtos).
+After seeing these videos we started [CrashTOS](https://github.com/gthvn1/crashtos).
 
 ## Some interesting links
 
